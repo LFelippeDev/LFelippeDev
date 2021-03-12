@@ -15,8 +15,8 @@
 
 ### Languages and Tools:
 
- [<img align="left"  width="22px" src="https://simpleicons.org/icons/css3.svg"/>][html]
- [<img align="left"  width="22px" src="https://simpleicons.org/icons/html5.svg"/>][css]
+ [<img align="left"  width="22px" src="https://simpleicons.org/icons/css3.svg"/>][css]
+ [<img align="left"  width="22px" src="https://simpleicons.org/icons/html5.svg"/>][html]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/javascript.svg"/>][javascript]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/node-dot-js.svg"/>][node]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/react.svg"/>][react]
