@@ -21,8 +21,6 @@
  [<img align="left" alt=" - Node.js" width="22px" color="#393" src="https://simpleicons.org/icons/node-dot-js.svg"/>]
  [<img align="left" alt=" - React" width="22px" color="#61DAFB" src="https://simpleicons.org/icons/react.svg"/>]
  [<img align="left" alt=" - TypeScript" width="22px" color="#3178C6" src="https://simpleicons.org/icons/typescript.svg"/>]
- [<img align="left" alt=" - Next.js" width="22px" color="#000"src="https://simpleicons.org/icons/next-dot-js.svg"/>]
-
 
 [twitter]: https://twitter.com/cruzelippe
 [instagram]: https://instagram.com/filipin.s
