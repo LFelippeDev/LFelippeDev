@@ -15,13 +15,14 @@
 
 ### Languages and Tools:
 
- [<img align="left" alt=" - Css" width="22px" color="#1572B6" src="https://simpleicons.org/icons/css3.svg"/>]
- [<img align="left" alt=" - HTML" width="22px" color="#E34F26" src="https://simpleicons.org/icons/html5.svg"/>]
- [<img align="left" alt=" - JavaScript" width="22px" color="#F7DF1E" src="https://simpleicons.org/icons/javascript.svg"/>]
- [<img align="left" alt=" - Node.js" width="22px" color="#393" src="https://simpleicons.org/icons/node-dot-js.svg"/>]
- [<img align="left" alt=" - React" width="22px" color="#61DAFB" src="https://simpleicons.org/icons/react.svg"/>]
- [<img align="left" alt=" - TypeScript" width="22px" color="#3178C6" src="https://simpleicons.org/icons/typescript.svg"/>]
+ [<img align="left"  width="22px" color="#1572B6" src="https://simpleicons.org/icons/css3.svg"/>][javascript]
+ [<img align="left"  width="22px" color="#E34F26" src="https://simpleicons.org/icons/html5.svg"/>][javascript]
+ [<img align="left"  width="22px" color="#F7DF1E" src="https://simpleicons.org/icons/javascript.svg"/>][javascript]
+ [<img align="left"  width="22px" color="#393" src="https://simpleicons.org/icons/node-dot-js.svg"/>][javascript]
+ [<img align="left"  width="22px" color="#61DAFB" src="https://simpleicons.org/icons/react.svg"/>][javascript]
+ [<img align="left"  width="22px" color="#3178C6" src="https://simpleicons.org/icons/typescript.svg"/>][javascript]
 
 [twitter]: https://twitter.com/cruzelippe
 [instagram]: https://instagram.com/filipin.s
 [linkedin]: https://linkedin.com/in/luiz-felippe-fernandes-silva-70b658181/
+[javascript]: https://pt.wikipedia.org/wiki/ECMAScript#:~:text=ECMAScript%20%C3%A9%20uma%20linguagem%20de,cliente%20e%20no%20servidor%20(Node.
