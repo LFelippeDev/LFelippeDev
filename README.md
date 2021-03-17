@@ -10,9 +10,8 @@
 [<img align="left" alt="@cruzelippe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="@filipin.s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="L. Felippe | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<a align="left">lfelippeeng@gmail.com</a>][gmail]
-
 <br />
+[<a align="left">lfelippeeng@gmail.com</a>][gmail]
 
 ### Languages and Tools:
 
