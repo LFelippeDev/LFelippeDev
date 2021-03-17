@@ -10,7 +10,7 @@
 [<img align="left" alt="@cruzelippe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="@filipin.s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="L. Felippe | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-# Email: lfelippeeeng@gmail.com
+[<a align="left">lfelippeeng@gmail.com</a>][gmail]
 
 <br />
 
@@ -23,6 +23,7 @@
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/react.svg"/>][react]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/typescript.svg"/>][typescrpit]
 
+[gmail]: lfelippeeng@gmail.com
 [twitter]: https://twitter.com/cruzelippe
 [instagram]: https://instagram.com/filipin.s
 [linkedin]: https://linkedin.com/in/luiz-felippe-fernandes-silva-70b658181/
