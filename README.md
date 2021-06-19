@@ -19,7 +19,6 @@
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/css3.svg"/>][css]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/html5.svg"/>][html]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/javascript.svg"/>][javascript]
- [<img align="left"  width="22px" src="https://simpleicons.org/icons/node-dot-js.svg"/>][node]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/react.svg"/>][react]
  [<img align="left"  width="22px" src="https://simpleicons.org/icons/typescript.svg"/>][typescrpit]
 
@@ -30,6 +29,5 @@
 [css]: https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
 [html]: https://pt.wikipedia.org/wiki/HTML
 [javascript]: https://pt.wikipedia.org/wiki/ECMAScript#:~:text=ECMAScript%20%C3%A9%20uma%20linguagem%20de,cliente%20e%20no%20servidor%20(Node.
-[node]: https://pt.wikipedia.org/wiki/Node.js
 [react]: https://pt.wikipedia.org/wiki/React_(JavaScript)
 [typescrpit]: https://pt.wikipedia.org/wiki/TypeScript
