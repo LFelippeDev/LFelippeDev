@@ -2,7 +2,7 @@
 
 ## I'm Student and Developer!
 - 📚I'm currently studying React.
-- 🎯2021 Goals: Learn France; Improve my knowledge with web development.
+- 🎯2022 Goals: Learn France; Improve my knowledge with web development.
 - 🎮Fun fact: I love to play games
 - 🏡I'm live in Brazil 
 
