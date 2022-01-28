@@ -1,7 +1,6 @@
 ### Hi there, I'm  Felippe
 
 ## I'm Student and Developer!
-- 📚I'm currently studying React.
 - 🎯2022 Goals: Learn France; Improve my knowledge with web development.
 - 🎮Fun fact: I love to play games
 - 🏡I'm live in Brazil 
