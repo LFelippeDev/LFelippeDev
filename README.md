@@ -1,7 +1,7 @@
 ### Hi there, I'm  Felippe
 
 ## I'm Student and Developer!
-- 🎯2022 Goals: Learn France; Improve my knowledge with web development.
+- 🎯2023 Goals: Learn Rust; Improve my knowledge with mobile development.
 - 🎮Fun fact: I love to play games
 - 🏡I'm live in Brazil 
 
