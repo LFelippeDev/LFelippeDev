@@ -23,7 +23,7 @@
 
 [gmail]: lfelippeeng@gmail.com
 [twitter]: https://twitter.com/cruzelippe
-[instagram]: https://instagram.com/filipin.s
+[instagram]: https://instagram.com/felippe.ts
 [linkedin]: https://linkedin.com/in/luiz-felippe-fernandes-silva-70b658181/
 [css]: https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
 [html]: https://pt.wikipedia.org/wiki/HTML
