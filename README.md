@@ -24,7 +24,7 @@
 [gmail]: lfelippeeng@gmail.com
 [twitter]: https://twitter.com/cruzelippe
 [instagram]: https://instagram.com/felippe.ts
-[linkedin]: https://linkedin.com/in/luiz-felippe-fernandes-silva-70b658181/
+[linkedin]: https://www.linkedin.com/in/felippe-fernandes-70b658181/
 [css]: https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
 [html]: https://pt.wikipedia.org/wiki/HTML
 [javascript]: https://pt.wikipedia.org/wiki/ECMAScript#:~:text=ECMAScript%20%C3%A9%20uma%20linguagem%20de,cliente%20e%20no%20servidor%20(Node.
