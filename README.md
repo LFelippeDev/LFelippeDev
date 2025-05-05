@@ -1,7 +1,7 @@
 ### Hi there, I'm  Felippe
 
 ## I'm Student and Developer!
-- 🎯2024 Goals: Learn Rust; Improve my knowledge with mobile development.
+- 🎯2025 Goals: Learn Go; Improve my knowledge with mobile development.
 - 🎮Fun fact: I love to play games
 - 🏡I'm live in Brazil 
 
