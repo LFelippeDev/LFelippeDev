@@ -1,9 +1,9 @@
 ### Hi there, I'm  Felippe
 
 ## I'm Student and Developer!
-- 🎯2025 Goals: Learn Go; Improve my knowledge with mobile development.
-- 🎮Fun fact: I love to play games
-- 🏡I'm live in Brazil 
+- 🎯 2025 Goals: Learn Go; Improve my knowledge with mobile development.
+- 🎮 Fun fact: I love to play games
+- 🏡 I'm living in brazil
 
 ### Connect with me!
 [<img align="left" alt="@cruzelippe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
